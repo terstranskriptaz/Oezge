@@ -1,2 +1,0 @@
-# Oezge
-Projekt RNA Alignment
